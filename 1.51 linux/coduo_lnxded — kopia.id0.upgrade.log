@@ -1,0 +1,20 @@
+IDA has found an unpacked version of database: C:\Users\jakub\Documents\GitHub\CoD1-Symbols\1.51 linux\coduo_lnxded — kopia.idb
+on the disk.
+
+Should we proceed with the unpacked files?
+ -> Pro~c~eed with unpacked base
+
+  bytes   pages size description
+--------- ----- ---- --------------------------------------------
+  3719168   454 8192 allocating memory for b-tree...
+  2981888   364 8192 allocating memory for virtual array...
+   262144    32 8192 allocating memory for name pointers...
+-----------------------------------------------------------------
+  6963200            total memory allocated
+
+Loading type libraries...
+Can't use BIOS comments base. -> OK
+Autoanalysis subsystem has been initialized.
+Database for file 'coduo_lnxded' has been loaded.
+Flushing buffers, please wait...ok
+Unloading IDP module pc...

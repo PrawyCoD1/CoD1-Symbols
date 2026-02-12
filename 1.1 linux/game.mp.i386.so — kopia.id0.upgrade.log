@@ -1,0 +1,20 @@
+IDA has found an unpacked version of database: C:\Users\jakub\Documents\GitHub\CoD1-Symbols\1.1 linux\game.mp.i386.so — kopia.idb
+on the disk.
+
+Should we proceed with the unpacked files?
+ -> Pro~c~eed with unpacked base
+
+  bytes   pages size description
+--------- ----- ---- --------------------------------------------
+  8978432  1096 8192 allocating memory for b-tree...
+  2318336   283 8192 allocating memory for virtual array...
+   262144    32 8192 allocating memory for name pointers...
+-----------------------------------------------------------------
+ 11558912            total memory allocated
+
+Loading type libraries...
+Can't use BIOS comments base. -> OK
+Autoanalysis subsystem has been initialized.
+Database for file 'game.mp.i386.so' has been loaded.
+Flushing buffers, please wait...ok
+Unloading IDP module pc...
